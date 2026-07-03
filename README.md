@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on eHealth projects
 - 📫 How to reach me - by email pauline.vranova@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I've been programming since high school (more than 19 years) and I'm still learning new things 😄
+- ⚡ Fun fact: I've been programming since high school (more than 20 years) and I'm still learning new things 😄
 
 <!---
 pvrana/pvrana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
