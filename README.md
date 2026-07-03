@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT, JAVA and nature
 - 🌱 I’m currently learning FHIR shorthand
 - 💞️ I’m looking to collaborate on eHealth projects
-- 📫 How to reach me - by email p.vranova@orcz.cz
+- 📫 How to reach me - by email pauline.vranova@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've been programming since high school (more than 19 years) and I'm still learning new things 😄
 
