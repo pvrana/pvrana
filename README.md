@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pvrana
 - 👀 I’m interested in IT, JAVA and nature
-- 🌱 I’m currently learning FHIR shorthand
+- 🌱 I’m currently programming in FHIR shorthand
 - 💞️ I’m looking to collaborate on eHealth projects
 - 📫 How to reach me - by email pauline.vranova@gmail.com
 - 😄 Pronouns: she/her
